@@ -1,2 +1,3 @@
 # Basic Idea
-![image](https://github.com/legendary-acp/practice-project-rust/assets/32306256/f47b6164-83ed-440f-baa9-a5d72e31fae3)
+![image](https://github.com/legendary-acp/practice-project-rust/assets/32306256/19664d7d-851d-4c8d-a59d-76227f78e663)
+
