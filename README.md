@@ -56,7 +56,7 @@ The above diagram illustrates the basic flow:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/oxidizer.git
+git clone https://github.com/legendary-acp/oxidizer.git
 cd oxidizer
 ```
 
